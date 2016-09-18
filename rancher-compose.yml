@@ -1,0 +1,4 @@
+jenkins-server:
+  scale: 1
+jenkins-data-container:
+  scale: 1
